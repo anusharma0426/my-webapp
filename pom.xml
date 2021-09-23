@@ -6,7 +6,7 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-webapp</artifactId>
-  <version>1.0-SCloudexampleLOUDEXAPMPLE</version>
+  <version>1.0-DEMO</version>
   <packaging>war</packaging>
 
   <name>my-webapp Maven Webapp</name>
